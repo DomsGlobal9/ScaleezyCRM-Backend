@@ -1,0 +1,2 @@
+-- ScaleEasy CRM Database Seed SQL
+-- Place local test data SQL queries here.
